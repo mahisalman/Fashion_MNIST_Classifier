@@ -88,7 +88,7 @@ Open your browser: http://127.0.0.1:5000
 
 Mahi Salman
 
-📫 Connect on LinkedIn https://www.linkedin.com/in/mahisalman/
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/mahisalman/)
 
-🌐 GitHub Profile https://github.com/mahisalman
+🌐 [GitHub Profile](https://github.com/mahisalman)
 
