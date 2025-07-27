@@ -37,7 +37,7 @@ The app features:
 
 ### 1️⃣ Clone the repo
 
-```bash
+bash
 git clone https://github.com/YOUR_USERNAME/fashion-mnist-classifier.git
 cd fashion-mnist-classifier
 
