@@ -79,7 +79,7 @@ Open your browser: http://127.0.0.1:5000
     SciPy (for center-of-mass preprocessing)
 
 📸 Screenshots
-![Screenshot](https://github.com/mahisalman/Digit-Classifier-MNIST/blob/main/Digit-Classifier-MNIST.png)
+![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_2.png)
 
 ✍️ Author
 
