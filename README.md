@@ -80,10 +80,15 @@ Open your browser: http://127.0.0.1:5000
 
 📸 Screenshots
 ![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_2.png)
+![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_4.png)
+![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_5.png)
+![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_6.png)
 
 ✍️ Author
 
 Mahi Salman
-📫 Connect on LinkedIn
-🌐 GitHub Profile
+
+📫 Connect on LinkedIn https://www.linkedin.com/in/mahisalman/
+
+🌐 GitHub Profile https://github.com/mahisalman
 
