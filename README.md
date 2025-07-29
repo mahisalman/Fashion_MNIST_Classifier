@@ -83,6 +83,7 @@ Open your browser: http://127.0.0.1:5000
 ![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_4.png)
 ![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_5.png)
 ![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_6.png)
+![Screenshot](https://github.com/mahisalman/Fashion_MNIST_Classifier/blob/main/Screenshot_1.png)
 
 ✍️ Author
 
